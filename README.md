@@ -16,7 +16,7 @@ This is a simple calculator program written in C. It performs basic arithmetic o
 - Would you like to calculate another set of numbers? (y/n): y
 - program repeats
 
-# how to complie
+# How to compile
 ```bash
 gcc -o calc calc.c
 ```
